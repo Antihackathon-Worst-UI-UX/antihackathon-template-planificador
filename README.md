@@ -1,19 +1,28 @@
 # Torneo Peor UI/UX 🎨🧨
 
-¡Bienvenid@ al peor torneo del DCC!
-Tu objetivo será crear una Interfaz Grafica absurdamente incomoda, frustrante y divertida de usar para un usuario
+¡Bienvenid@ al ~~mejor~~ peor torneo del DCC! 😻
 
-## Reglas Basicas
+Tu objetivo será crear una Interfaz Grafica absurdamente incomoda, frustrante y divertida de usar para un usuario.
 
+# Categoria: Planificador 📲
+Esta categoría consta de construir un planificador, ya sea:
+1. Un Calendario
+2. Una Todo-List App
+3. Horario
+4. Un tracker (habitos, estudios, gastos)
+
+## Reglas Generales 👮🏻‍♂️
+- No se permite contenido ofensivo, violento, racista, sexista, xenofóbico, homofóbico o irrespetuoso 😾
 - Solo puedes usar este repositorio para tu proyecto
-- Eres libre de usar cualquier tecnologia: HTML/CSS/JS, React, etc.
-- Modificar solo el README para presentar el link donde alojes tu UI (*revisar caso de ser un ejecutable*)
+- Modificar solo el README para presentar el link donde alojes tu UI
 - Tu codigo debe estar en la carpeta `src/`
+- Para poder participar, tu aplicacion tiene que funcionar
+- Si bien la experiencia de usuario debe ser frustrante y/o divertida, tu UI tiene que cumplir con su objetivo
 
-## Entrega
-
+## Entrega ✅
 - Este repositorio será revisado por los jueces al termino de la competencia: *Martes 19 Agosto - 23:59*
+- Link Deploy = [Remplazar por el link donde tenga hosteada su UI]
 
 ---
 
-¡Buena suerte ~~buen~~ mal diseñador/a!
+¡Buena suerte ~~buen~~ mal diseñador/a 🧑🏻‍🎨👨🏻‍🎨!

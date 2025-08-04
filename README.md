@@ -16,7 +16,7 @@ Esta categoría consta de construir un planificador, ya sea:
 - No se permite contenido ofensivo, violento, racista, sexista, xenofóbico, homofóbico o irrespetuoso 😾
 - Solo puedes usar este repositorio para tu proyecto
 - Modificar solo el README para presentar el link donde alojes tu UI
-- Tu codigo debe estar en la carpeta `src/`
+- Tu codigo debe estar en la carpeta `src/`: index.html + styles.css + app.js (estos ultimos 2 opcionales)
 - Para poder participar, tu aplicacion tiene que funcionar
 - Si bien la experiencia de usuario debe ser frustrante y/o divertida, tu UI tiene que cumplir con su objetivo
 

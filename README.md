@@ -12,6 +12,7 @@ Esta categoría consta de construir un planificador, ya sea:
 4. Un tracker (habitos, estudios, gastos)
 
 ## Reglas Generales 👮🏻‍♂️
+- Las bases del torneo se encuentran en : https://github.com/Antihackathon-Worst-UI-UX/antihackathon-template
 - No se permite contenido ofensivo, violento, racista, sexista, xenofóbico, homofóbico o irrespetuoso 😾
 - Solo puedes usar este repositorio para tu proyecto
 - Modificar solo el README para presentar el link donde alojes tu UI
